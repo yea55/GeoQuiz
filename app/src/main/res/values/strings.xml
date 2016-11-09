@@ -3,6 +3,21 @@
     <string name="question_text">Have you found Waldo?</string>
     <string name="true_button">True</string>
     <string name="false_button">False</string>
-    <string name="correct_toast">I hope you understand what you\'ve done…</string>
-    <string name="incorrect_toast">It remains a mystery…</string>
+    <string name="correct_toast">Correct</string>
+    <string name="incorrect_toast">Incorrect</string>
+    <string name="nyi_toast">Not yet implemented</string>
+    <string name="title_activity_drawer">Drawer</string>
+    <string name="question0"><b>1.</b> The pacific ocean is larger than the atlantic ocean.</string>
+    <string name="question1"><b>2.</b> The Suez Canal connects the Red sea and the indian ocean.</string>
+    <string name="question2"><b>3.</b> The source of the Nile river is in egypt.</string>
+    <string name="question3"><b>4.</b> The Amazon river is the longest in the americas.</string>
+    <string name="question4"><b>5.</b> Lake baikal is the world\'s oldest and deepest freshwater lake.</string>
+    <!--<string name="question5"><b>6.</b>Question 6: Pick TRUE</string>
+    <string name="question6"><b>7.</b>Question 7: Pick FALSE</string>-->
+
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
 </resources>
